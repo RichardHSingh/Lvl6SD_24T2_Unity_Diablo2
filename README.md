@@ -1,4 +1,4 @@
-# Diablo 2 Inspired 2d Unity
+# Diablo 2 Inspired 2D Unity
 
 
 Coming up with a game ideas where one can achieve the criteria. This idea must be sufficient and in depth, as we will be providing a total of 3 weeks to complete this.<br> These are the basic requirements that will need to be followed:.<br><br>
