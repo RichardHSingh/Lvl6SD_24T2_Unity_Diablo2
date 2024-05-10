@@ -35,12 +35,12 @@ public class Health : MonoBehaviour
         if(currentHealth > 0)
         {
             //player =  hurt
-            anime.SetTrigger("hurt")
+            anime.SetTrigger("hurt");
         }
         else 
         {
             //player  = dead
-            anime.SetTrigger("dead")
+            anime.SetTrigger("dead");
         }
         
     }

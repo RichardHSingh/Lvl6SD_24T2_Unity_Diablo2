@@ -8,4 +8,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Level1/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: de73d927fb6d89b48ba6a6beacadd39f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 08a02031b56605243ae71c8de2e0f5ce
+  - enabled: 1
+    path: Assets/Scenes/Dialogue.unity
+    guid: 8055d2747c77dac40991cdd37846f9ca
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: d66408334f74c544c8124044cad25972
+  - enabled: 1
+    path: Assets/Scenes/Camp.unity
+    guid: d6d7e0d43a044c64990ffc09dd1a5893
+  - enabled: 1
+    path: Assets/Scenes/Wilderness.unity
+    guid: 2d47b53f722412d4686c507d8567629a
   m_configObjects: {}

@@ -11,7 +11,7 @@ public class PauseMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Cursor.visible = false;
+        // Cursor.visible = false;
     }
 
     // Update is called once per frame
@@ -30,6 +30,7 @@ public class PauseMenu : MonoBehaviour
                 Time.timeScale = 1f;
                 pauseMenu.SetActive(false);
                 Cursor.visible = false;
+                
             }        
         }
     }

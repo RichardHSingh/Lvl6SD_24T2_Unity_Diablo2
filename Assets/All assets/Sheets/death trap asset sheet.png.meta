@@ -231,7 +231,7 @@ TextureImporter:
         height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 13}
       outline: []
       physicsShape: []
       tessellationDetail: -1
@@ -248,11 +248,11 @@ TextureImporter:
         serializedVersion: 2
         x: 541
         y: 1906
-        width: 168
+        width: 166
         height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 10, y: 12, z: 16, w: 15}
       outline: []
       physicsShape: []
       tessellationDetail: -1
@@ -914,10 +914,31 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: death trap asset sheet_0
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1705
+        width: 17
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed9f82999c6af429b2ee637966f48d
+      internalID: 1218832128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 435270ceae75f674d8326afb6aa718c6
     internalID: 0
     vertices: []
     indices: 
@@ -957,6 +978,7 @@ TextureImporter:
       Swing01Bloody: -2527621135759914716
       MetalicSwingRoot: 8923023952551630215
       Chain04: 6308089987502242498
+      death trap asset sheet_0: 1218832128
       SawClean: -8003346854188952629
       CannonBalls: -3372628981263526927
       Swing02Bloody: 2779881214940103730
