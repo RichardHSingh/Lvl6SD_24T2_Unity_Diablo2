@@ -5,8 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void NewGame()
+    public void Play()
     {
+        //can use either indexID --> found in build setting or name
         SceneManager.LoadSceneAsync("Camp");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }
