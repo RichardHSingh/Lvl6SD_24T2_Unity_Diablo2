@@ -50,9 +50,7 @@ public class Health : MonoBehaviour
             //player  = dead
             if (!dead)
             {
-                anime.SetTrigger("dead");
-                GetComponent<PlayerMovement>().enabled = false;
-                dead = true;
+               Die();
             }
             
         }
@@ -80,4 +78,14 @@ public class Health : MonoBehaviour
         }
         Physics2D.IgnoreLayerCollision(10,11, false);
     }
+
+    private void Die()
+    {
+        anime.SetTrigger("dead");
+        GetComponent<PlayerMovement>().enabled = false;
+        dead = true;
+
+    }
+
 }
+

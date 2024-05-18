@@ -9,14 +9,14 @@ EditorBuildSettings:
     path: Assets/Level1/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Warning.unity
+    guid: 8055d2747c77dac40991cdd37846f9ca
+  - enabled: 1
     path: Assets/Scenes/Intro.unity
     guid: de73d927fb6d89b48ba6a6beacadd39f
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 08a02031b56605243ae71c8de2e0f5ce
-  - enabled: 1
-    path: Assets/Scenes/Dialogue.unity
-    guid: 8055d2747c77dac40991cdd37846f9ca
   - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: d66408334f74c544c8124044cad25972
@@ -24,6 +24,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Camp.unity
     guid: d6d7e0d43a044c64990ffc09dd1a5893
   - enabled: 1
-    path: Assets/Scenes/Wilderness.unity
+    path: Assets/Scenes/PlatformBlade.unity
     guid: 2d47b53f722412d4686c507d8567629a
+  - enabled: 1
+    path: Assets/Scenes/PlatformSpikes.unity
+    guid: 34c410bfadeb12a44886ac5b4886a907
+  - enabled: 1
+    path: Assets/Scenes/PlatformFireTrap.unity
+    guid: b44a55dcff7fb8f47b65c94597df4919
+  - enabled: 1
+    path: Assets/Scenes/PlatformHoppy.unity
+    guid: 83ff08315a029d84fbda43f7e68dbc91
+  - enabled: 1
+    path: Assets/Scenes/PlatformProjectile.unity
+    guid: f442cb5d47a90cd4881b8113540bf175
+  - enabled: 1
+    path: Assets/Scenes/CampDialogue.unity
+    guid: 7bf7ddafda9065340827e1749aae4b52
   m_configObjects: {}
